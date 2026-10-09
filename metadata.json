@@ -1,0 +1,6 @@
+{
+  "name": "Sapthagiri NPS University - Smart Campus & Attendance System",
+  "description": "Comprehensive Attendance Management System, Smart Timetable, Academic Calendar, and Saptha AI Campus Assistant for Sapthagiri NPS University (SNPSU).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
